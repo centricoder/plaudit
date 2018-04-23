@@ -1,0 +1,3 @@
+package biz.netcentric.plaudit.http.serialization
+
+trait JsonCirceCompleteSerialization extends CirceSerialization with DateTimeSerialization
